@@ -1,0 +1,12 @@
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\bin\Debug\AT YARIŞI DÜZGÜN.exe.config
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\bin\Debug\AT YARIŞI DÜZGÜN.exe
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\bin\Debug\AT YARIŞI DÜZGÜN.pdb
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT_YARIŞI_DÜZGÜN.Form1.resources
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT_YARIŞI_DÜZGÜN.Properties.Resources.resources
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT YARIŞI DÜZGÜN.csproj.GenerateResource.Cache
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT YARIŞI DÜZGÜN.exe
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT YARIŞI DÜZGÜN.pdb
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT YARIŞI DÜZGÜN.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT_YARIŞI_DÜZGÜN.Form2.resources
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT_YARIŞI_DÜZGÜN.Form3.resources
+C:\Users\Mert\Google Drive\c# denemeler\AT YARIŞI DÜZGÜN\AT YARIŞI DÜZGÜN\obj\Debug\AT_YARIŞI_DÜZGÜN.Form5.resources
